@@ -1,0 +1,6 @@
+# Project exclude paths
+/react_movie/node_modules/
+/react_study/node_modules/
+/react_study-Component/node_modules/
+/react_study-Router/node_modules/
+/react_study-template/node_modules/
